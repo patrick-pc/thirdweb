@@ -9,7 +9,10 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@thirdweb-dev/react": "^2.8.0",
+    "@thirdweb-dev/sdk": "^2.4.0",
     "autoprefixer": "^10.4.8",
+    "ethers": "^5.7.0",
     "next": "12.2.5",
     "postcss": "^8.4.16",
     "react": "18.2.0",
